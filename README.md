@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -19,8 +18,8 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(4, auto);
-        gap: 20px;
-        padding: 60px;
+        gap: 15px;
+        padding: 0px;
     }
     .grid-item {
         border: 1px solid #ccc;
