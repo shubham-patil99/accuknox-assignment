@@ -76,8 +76,8 @@
     @media screen and (max-width: 1170px) {
       .grid {
         grid-template-columns: repeat(1, 1fr);
-        padding: 20px;
-        gap: 0;
+        padding: 0;
+        gap: 15px;
       }
       .grid-item {
         border: 1px solid #ccc;
