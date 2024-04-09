@@ -19,7 +19,7 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(4, auto);
-        gap: 60px;
+        gap: 20px;
         padding: 60px;
     }
     .grid-item {
